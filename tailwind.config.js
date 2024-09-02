@@ -9,3 +9,15 @@ export default {
   },
   plugins: [],
 }
+
+// tailwind.config.js
+// module.exports = {
+//   content: [
+//     "./src/**/*.{js,jsx,ts,tsx}",  // Include all JavaScript/TypeScript files in the src directory
+//     "./public/index.html",          // Include your HTML files
+//   ],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+// };

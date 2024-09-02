@@ -1,6 +1,5 @@
-import React from 'react'
-
 export default function Home() {
   return (
-<h1>ypur at home </h1>  )
+      <h1 >Welcome to the Home Page!</h1>
+  );
 }
